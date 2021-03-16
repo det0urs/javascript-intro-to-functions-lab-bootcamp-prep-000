@@ -21,3 +21,4 @@ lowercase=string.toLowerCase();
 string=lowercase;
 console.log (lowercase);
 }
+function.
